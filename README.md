@@ -1,6 +1,10 @@
-In backend directory
+In FinanceTracker
+``` npm install ```
+
+In FinanceTracker/backend directory
 ``` node server.js```
 
-In frontend directory
+In FinanceTracker/frontend directory
 ```npm run dev```
+
 then go to the url created by vite
